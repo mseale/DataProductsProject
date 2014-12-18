@@ -10,4 +10,4 @@ The Shiny web application code is contained in:
 - www folder (images and a help file)
 
 The Slidify presentation is contained in the *fruitpres* folder. ficrcd_fruit.csv is the data file used by the calculations.
-*NOTE:* When viewing the presentation on RPubs, use the keyboard arrow keys (<-  ->) for navigation.
+*NOTE:* When viewing the presentation on RPubs (http://rpubs.com/mseale22/49917), use the keyboard arrow keys (<-  ->) for navigation.
